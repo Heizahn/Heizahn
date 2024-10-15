@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *Next.js, React Native and Godot*
 
 - 👨‍💻 All of my projects are available at [Web Portfolio](https://heizahn.dev)
+  
+- 📫 How to reach me **hrbweibezahn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
